@@ -1,5 +1,7 @@
 # About me
 
+****
+
 ***Hello*** My name is chris:heavy_exclamation_mark: :grinning:
 
 I have a love :sparkling_heart: and passion for wildlife and tech :computer:. 
@@ -11,6 +13,8 @@ In the future i would **LOVE** to build accessible games and apps for those whom
 On a personnal level i use wildlife :bird: and nature :leaves: as my therapy and capture this with my camera :camera:.
 
 long walks and hours of sitting and waiting listening the sounds of birds, transports me away from all the hussle and bussle of modern life to a place of clarity to allow myself to think.
+
+****
 
 > ## ***My Favourite Birds***
 >
