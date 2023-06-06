@@ -4,7 +4,7 @@
 |----|----|----|
 |Christopher|Palmer|33|  
 ****
-
+ 
 ***Hello*** My name is Chris
 
 I have a love 💖 and passion for wildlife and tech 💻.  
