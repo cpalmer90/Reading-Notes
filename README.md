@@ -1,12 +1,6 @@
 #  About me  
 
 **** 
-
-|Name|Surname|Age|   
-|----|----|----|   
-|Christopher|Palmer|33|  
-
-****
  
 ***Hello*** My name is Chris
 
