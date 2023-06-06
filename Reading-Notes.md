@@ -14,6 +14,8 @@ On a personnal level i use wildlife :bird: and nature :leaves: as my therapy and
 
 long walks and hours of sitting and waiting listening the sounds of birds, transports me away from all the hussle and bussle of modern life to a place of clarity to allow myself to think.
 
+[Visit my github profile here](https://github.com/cpalmer90)
+
 ****
 
 > ## ***My Favourite Birds***
