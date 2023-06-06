@@ -1,8 +1,8 @@
 #  About me
-****
-|Name|Surname|Age|Contact infomation|
-|----|----|----|----|
-|Chris|Palmer|33|Christopherpalmer283@gmail.com|
+****  
+|Name|Surname|Age|
+|----|----|----|
+|Christopher|Palmer|33|  
 ****
 
 ***Hello*** My name is Chris
@@ -28,8 +28,9 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 |2|Kingfisher|They live in burrows on the edges of streams, lakes and ponds|
 |3|Marsh Harrier|There are an estimated 400 to 700 breeding pairs of Marsh Harriers in the United Kingdom.|
 
- ## **Image of a barn owl i have taken while out in the wild**.
-![Barnowl - Copy](https://github.com/cpalmer90/myfirstrepo/assets/135607164/18be5e6b-c559-457d-885a-94a5e127ab51 "Barnowl")  
+ ## **Image of a barn owl i have taken while out in the wild**
+
+ ![Barnowl - Copy](https://github.com/cpalmer90/myfirstrepo/assets/135607164/18be5e6b-c559-457d-885a-94a5e127ab51 "Barnowl")  
 ##### If you would like to see anymore of my images please visit my instagram via the link below  
 [Click Me](https://www.instagram.com/captured.by.chris/)  
 
