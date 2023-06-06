@@ -40,9 +40,9 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 > Growth Mindset is the belief that your knowledge and abilities are able to be developed and improved by hardwork and dedication. While Talent is just a starting block.
 
 * How to maintain a growth mindset
-  1. Effort - **Always** apply ***100%*** energy as good outcomes require exertion (mental, Physical or repetition).
-  2. Challenge - See challenges as exciting, engaging as these **are** oppotunities to learn something valuable from your experiences.
-  3. Mistakes/Feedback - Dont be affraid to make mistakes!  Mistakes are also oppotunities to develop knowledge and not something to be embarressed over.  feedback can help improve in the future and is not personal.
+  1. Effort - ***Always apply 100%*** energy as good outcomes require exertion (mental, Physical or repetition).
+  2. Challenge - ***See challenges as exciting***, engaging as these **are** oppotunities to learn something valuable from your experiences.
+  3. Mistakes/Feedback - ***Dont be affraid to make mistakes!***  Mistakes are also oppotunities to develop knowledge and not something to be embarressed over.  feedback can help improve in the future and is not personal.
 
 
 
