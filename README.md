@@ -2,9 +2,9 @@
 
 **** 
 
-|Name|Surname|Age|  
-|----|----|----|  
-|Christopher|Palmer|33|    
+|Name|Surname|Age|   
+|----|----|----|   
+|Christopher|Palmer|33|  
 
 ****
  
