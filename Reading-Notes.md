@@ -7,7 +7,7 @@
 
 ***Hello*** My name is Chris
 
-I have a love 💖 and passion for wildlife and tech 💻. 
+I have a love 💖 and passion for wildlife and tech 💻.  
 I have dabbled in code on/off trying to self teach C# with the aim of developing games using unity. 
 
  ***Now*** 💪 feels the right time to make a positive move forward in my coding journey to give me a good foundation which i can then build upon.
