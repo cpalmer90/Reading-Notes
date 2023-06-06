@@ -22,8 +22,7 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 [Visit my github profile here](https://github.com/cpalmer90)
 
 ****  
-|My Top 3 Birds|  
-|----|
+#### **My Top 3 Birds**
 
 |Rank|Name|Fact|
 |----|----|----|
