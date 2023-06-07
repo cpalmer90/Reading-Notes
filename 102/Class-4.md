@@ -140,7 +140,7 @@ can creat style elements (will take priority)
 <h1 style="color: red">my logo</h1>
 
 create a link element in head.  
-<link rel="stylesheet" href"style.css"/>
+<link rel="stylesheet" href="style.css"/>
 
 Syntax for writting css: selectors   
 *h1 {
@@ -205,5 +205,12 @@ border-color: red;
 section{
 
 
-  
+
 }
+
+box model - 
+
+margin  
+border  
+padding 
+element 
