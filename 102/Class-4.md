@@ -9,16 +9,23 @@ low fidelity wireframe - very basic simple.
 
 ****
 
-new repo - html-sem - public - readme- create.
-
-make sure to select ssh - copy code -  
-open terminal - pwd - ls - cd into directory- git clone [paste code here]   
-cd into new repo - git code . to open vsc.  
+1. make new repo 
+2. make sure repo is public and has a readme
+3. create
+4. make sure to select ssh and copy the code
+5. open terminal - pwd - ls - cd into directory-
+6. git clone [paste code here]   
+7. cd into new repo 
+8. - git code . to open vsc.  
 complete README.md to discribe what project is about and what it needs to work.  
+****
+### to create new HTML file:
+1. open terminal 
+2. - touch index.html - Index.html is important and always needs top be in the project.  
+3. open index - press ! to fill out infomation required in an html file.  
 
-open terminal - touch index.html - Index.html is important and always needs top be in the project.  
-
-open index - press ! to fill out infomation required in an html file.  
+****
+## **HTML Syntax**
 
 tells browser what doc type to expect
 `<!DOCTYPE html>`
@@ -129,7 +136,7 @@ meta data goes here.
 
 ****  
 
-Cascading style sheets.
+## Cascading style sheets.
 
 to use css, need to make a css file. - in terminal ~ touch style.css
 
@@ -166,10 +173,12 @@ id selecter - # - #hero-heading {
 ID is unique, should be for one element.
 
 
-<!-- box-sizing: border-box; -->
+ box-sizing: border-box;
 
 nav li {} 
-<!-- will target all nav with lists -->
+
+will target all nav with lists
+
 nav > ul {
 
 }
@@ -191,22 +200,22 @@ body{
 ul {list-style: disc;
 margin-left: 2rem;}
 
-<!-- eric meyer css reset - https://meyerweb.com/eric/tools/css/reset/  
-reset style must be before style sheet  -->
+eric meyer css reset - https://meyerweb.com/eric/tools/css/reset/  
+reset style must be before style sheet
 
-<!-- Border styling -->
+ Border styling
 section { border-width: 2px;
 border-style: dotted;
 border-color: red;
 }
 
-<!-- layout styles -->
+layout styles
 section{
 
 
 
 }
-
+****
 box model - 
 
 margin  
