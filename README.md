@@ -44,12 +44,12 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 
 ### **Table of contents**  
 
--[Class 1: Markdown]()
--[Class 2: Terminal/ubuntu commands]()
--[Class 3: HTML]()
--[Class 4: CSS]()
--[Class 5: Intro to javascript]()
--[class 6: Programming with javascript]()
--[Class 7: math, logic and couter arcutecture]()
--[Class 8: Career coaching]()
+-[Class 1: Markdown]()  
+-[Class 2: Terminal/ubuntu commands]()  
+-[Class 3: HTML]()  
+-[Class 4: CSS]()  
+-[Class 5: Intro to javascript]()  
+-[class 6: Programming with javascript]()  
+-[Class 7: math, logic and couter arcutecture]()  
+-[Class 8: Career coaching]()  
 
