@@ -44,12 +44,12 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 
 ### **Table of contents**  
 
--[Class 1: Markdown]()  
--[Class 2: Terminal/ubuntu commands]()  
--[Class 3: HTML]()  
--[Class 4: CSS]()  
--[Class 5: Intro to javascript]()  
--[class 6: Programming with javascript]()  
--[Class 7: math, logic and couter arcutecture]()  
--[Class 8: Career coaching]()  
+-[Class 1: Markdown](https://cpalmer90.github.io/Class-1.md)  
+-[Class 2: Terminal/ubuntu commands](https://cpalmer90.github.io/Class-2.md)  
+-[Class 3: HTML](https://cpalmer90.github.io/Class-3.md)  
+-[Class 4: CSS](https://cpalmer90.github.io/Class-4.md)  
+-[Class 5: Intro to javascript](https://cpalmer90.github.io/Class-5.md)  
+-[class 6: Programming with javascript](https://cpalmer90.github.io/Class-6.md)  
+-[Class 7: math, logic and couter arcutecture](https://cpalmer90.github.io/Class-7.md)  
+-[Class 8: Career coaching](https://cpalmer90.github.io/Class-8.md)  
 
