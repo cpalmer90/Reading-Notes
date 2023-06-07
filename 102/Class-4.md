@@ -7,7 +7,6 @@ outline of a page you want to make. structure and layout.
 
 low fidelity wireframe - very basic simple. 
 
-
 ****
 
 new repo - html-sem - public - readme- create.

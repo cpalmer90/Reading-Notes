@@ -42,5 +42,14 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
   3. Mistakes/Feedback - ***Dont be affraid to make mistakes!***  Mistakes are also oppotunities to develop knowledge and not something to be embarressed over.  feedback can help improve in the future and is not personal.
 
 
+### **Table of contents**  
 
+-[Class 1: Markdown]()
+-[Class 2: Terminal/ubuntu commands]()
+-[Class 3: HTML]()
+-[Class 4: CSS]()
+-[Class 5: Intro to javascript]()
+-[class 6: Programming with javascript]()
+-[Class 7: math, logic and couter arcutecture]()
+-[Class 8: Career coaching]()
 
