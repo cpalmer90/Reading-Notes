@@ -32,24 +32,5 @@ long walks and hours of sitting and waiting listening the sounds of birds, trans
 
 ****
 
-# Growth Mindset  
 
-> Growth Mindset is the belief that your knowledge and abilities are able to be developed and improved by hardwork and dedication. While Talent is just a starting block.
-
-* How to maintain a growth mindset
-  1. Effort - ***Always apply 100%*** energy as good outcomes require exertion (mental, Physical or repetition).
-  2. Challenge - ***See challenges as exciting***, engaging as these **are** oppotunities to learn something valuable from your experiences.
-  3. Mistakes/Feedback - ***Dont be affraid to make mistakes!***  Mistakes are also oppotunities to develop knowledge and not something to be embarressed over.  feedback can help improve in the future and is not personal.
-
-
-### **Table of contents**  
-
--[Class 1: Markdown](https://cpalmer90.github.io/Class-1.md)  
--[Class 2: Terminal/ubuntu commands](https://cpalmer90.github.io/Class-2.md)  
--[Class 3: HTML](https://cpalmer90.github.io/Class-3.md)  
--[Class 4: CSS](https://cpalmer90.github.io/Class-4.md)  
--[Class 5: Intro to javascript](https://cpalmer90.github.io/Class-5.md)  
--[class 6: Programming with javascript](https://cpalmer90.github.io/Class-6.md)  
--[Class 7: math, logic and couter arcutecture](https://cpalmer90.github.io/Class-7.md)  
--[Class 8: Career coaching](https://cpalmer90.github.io/Class-8.md)  
 
