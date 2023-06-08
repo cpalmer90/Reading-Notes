@@ -109,9 +109,19 @@ can make if statement use more logic - if (myNum === 6){
 ### Built in methods/prompts/document.write()
 
 
-*variable changes from the users input*  
+- prompt *variable changes from the users input*  
 let userName = prompt("Hello User, Please tell me your name!");
 console.log(userName)
+
+- alert *doesnt have any fields for users to type will just bring up a message*
+const welcomeMsg = alert("welcome to my page " + userName);
+
+- *document.write()* is considered bad practice avoid using this where possible. 
+ document.write(" Hello + userName + " thank you for visiting my site");
+
+ - *Confirm* is The confirm() method displays a dialog box with a message, an OK button, and a Cancel button.
+
+The confirm() method returns true if the user clicked "OK", otherwise false.
 
 
 
