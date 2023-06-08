@@ -7,7 +7,7 @@ outline of a page you want to make. structure and layout.
 
 low fidelity wireframe - very basic simple. 
 
-![Wireframe]("102/wireframe (20230607012654)[1773].jpg")
+![Wireframe example]("")
 
 ****
 
