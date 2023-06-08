@@ -2,14 +2,14 @@
 
 ****
 
-1. [Class 1: Markdown](/Class-1.md)  
-2. [Class 2: Terminal/ubuntu commands](/Class-2.md)  
-3. [Class 3: HTML](/Class-3.md)  
-4. [Class 4: CSS](/Class-4.md)  
-6. [Class 5: Intro to javascript](/Class-5.md)  
-7. [class 6: Programming with javascript](/Class-6.md)  
-8. [Class 7: math, logic and couter arcutecture](/Class-7.md)  
-9. [Class 8: Career coaching](/Class-8.md)  
+1. [Class 1: Markdown](102/Class-1.md)  
+2. [Class 2: Terminal/ubuntu commands](102/Class-2.md)  
+3. [Class 3: HTML](102/Class-3.md)  
+4. [Class 4: CSS](102/Class-4.md)  
+6. [Class 5: Intro to javascript](102/Class-5.md)  
+7. [class 6: Programming with javascript](102/Class-6.md)  
+8. [Class 7: math, logic and couter arcutecture](102/Class-7.md)  
+9. [Class 8: Career coaching](102/Class-8.md)  
 
 
 ****
