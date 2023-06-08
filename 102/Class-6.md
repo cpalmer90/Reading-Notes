@@ -80,3 +80,38 @@ let thatNum = --myNum;  console.log(thatNum)
 * !== -not equal value and not equal type 
 
 ****
+
+## **Conditional statement** 
+
+a conditional statement controls behaviours in javascript and determines whether or not a piece of code should run or not.  
+
+*variable being used for example*
+let myNum = 5
+
+true - will run in console
+if (myNum === 5) {
+    console.log ("bingo");
+}
+
+False will not run
+if(myNum === 4) {
+console.log("flamingo");
+}
+
+#### if - else statement  
+can make if statement use more logic - if (myNum === 6){
+    console.log("you will win money");
+} else {console.log("sucker");
+}
+
+****  
+
+### Built in methods/prompts/document.write()
+
+
+*variable changes from the users input*  
+let userName = prompt("Hello User, Please tell me your name!");
+console.log(userName)
+
+
+
