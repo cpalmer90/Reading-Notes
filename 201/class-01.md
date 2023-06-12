@@ -60,10 +60,6 @@ a:hover {
     color:white;
 }
 
-
-
-
-
 ****
 
 let user;
@@ -95,4 +91,3 @@ function favColor(){
 }
 favColor();
 }
-
